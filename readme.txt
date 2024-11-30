@@ -8,6 +8,19 @@ Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
+I am not paying fucking $99 a year for the other script....  
+so I am going to add changes I needed in this nice free script.        
+
+== Elys Changes == 
+1. Don't check woocommerce subscriptions renewals - thank you to RxLaboratory https://github.com/RxLaboratory/woo-manage-fraud-orders/commit/02687273f112e2543e1dcb92ed5bd936cbeae38f  
+2.
+3. 
+4.    
+
+
+
+
+
 This plugin will add the functionality to blacklist the customer from checking out.
 
 == Description ==
